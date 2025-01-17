@@ -10,7 +10,7 @@ export default function Profile(){
                 <div className="mt-4">
                     <h2 className="flex flex-wrap flex-col sm:flex-row gap-4 text-4xl text-cyan-600 dark:text-cyan-50">
                         <span>I&apos;am </span>
-                        <span className="uppercase bg-cyan-700 text-cyan-50 font-bold rounded-full px-3 text-center w-[80%] whitespace-nowrap text-lg sm:text-2xl md:text-lg animate-bounce">Andy Eka Mulya</span>
+                        <span className="uppercase bg-cyan-700 text-cyan-50 font-bold rounded-full px-3 text-center w-[80%] whitespace-nowrap text-lg sm:text-2xl md:text-lg animate-bounce">Hindarsyah</span>
                     </h2>
                     <p className="py-6 text-cyan-600 dark:text-cyan-50 md:text-sm">I&apos;am a <span className="uppercase font-bold text-cyan-800 dark:text-cyan-500 md:text-sm lg:text-lg">Junior Front-End Developer</span></p>
                     
